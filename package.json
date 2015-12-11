@@ -18,5 +18,8 @@
   "homepage": "https://github.com/sairam0903/my-portfolio#readme",
   "dependencies": {
     "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.8.1"
   }
 }
