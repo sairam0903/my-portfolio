@@ -1,2 +1,2 @@
 angular
-    .module('MyPortfolio', ['ngRoute']);
+    .module('MyPortfolio', ['ngRoute', 'ngMaterial', 'ngMdIcons']);
