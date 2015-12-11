@@ -1,0 +1,27 @@
+{
+  "name": "my-portfolio",
+  "description": "This project basically describes my portfolio",
+  "main": "server.js",
+  "authors": [
+    "Sai Ram Gupta Chittimilla"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sairam0903/my-portfolio",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6"
+  }
+}
